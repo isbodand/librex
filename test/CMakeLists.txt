@@ -63,6 +63,10 @@ if ((CMAKE_CXX_COMPILER_ID STREQUAL "GCC")
     target_link_options(iu_test PUBLIC -lpthread)
 endif ()
 
+<<<<<<< HEAD
 add_test(librexTests
+=======
+add_test(InfoUtilsTests
+>>>>>>> origin/master
          "rex_test -v"
          )
