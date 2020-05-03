@@ -9,7 +9,7 @@ developed for.
 ## License
 
 The project is licensed under the BSD 3-Clause license. For more information
-see the privded 
+see the provided `LICENSE` file. 
 
 ## Dependencies
 
